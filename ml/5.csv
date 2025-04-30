@@ -1,0 +1,11 @@
+company,job,degree,salary_more_then_100k
+Google,Engineer,Masters,1
+Microsoft,Manager,Bachelors,0
+Apple,Engineer,Bachelors,1
+Amazon,Analyst,PhD,0
+Google,Manager,PhD,1
+Microsoft,Engineer,Masters,1
+Facebook,Analyst,Bachelors,0
+Amazon,Engineer,Masters,1
+Apple,Manager,Bachelors,1
+Facebook,Engineer,PhD,0

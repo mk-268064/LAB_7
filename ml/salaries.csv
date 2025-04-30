@@ -1,0 +1,19 @@
+company,job,degree,salary_more_then_100k
+Company A,Software Engineer,Bachelor's,1
+Company B,Data Scientist,Master's,1
+Company C,Product Manager,Bachelor's,0
+Company A,Data Analyst,Bachelor's,0
+Company B,Software Engineer,Master's,1
+Company C,Software Engineer,Bachelor's,0
+Company A,Data Scientist,PhD,1
+Company B,Product Manager,Bachelor's,1
+Company C,Data Analyst,Master's,0
+Company A,Product Manager,Master's,1
+Company B,Data Analyst,Bachelor's,0
+Company C,Software Engineer,PhD,1
+Company A,Data Scientist,Bachelor's,1
+Company B,Software Engineer,Bachelor's,0
+Company C,Product Manager,Master's,1
+Company A,Data Analyst,PhD,0
+Company B,Data Scientist,Bachelor's,1
+Company C,Software Engineer,Master's,1
